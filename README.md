@@ -20,7 +20,7 @@
 ## 基本使用说明
 1. Clone项目:`git clone https://github.com/Thoxvi/Dont-Starve-Together-Docker-Cluster.git`
 2. 进入目录:`cd ./Dont-Starve-Together-Docker-Cluster`
-3. 根据模板修改infos文件(每一行对应一个实例,#号注释，如果不需要密码的话请留空对应位置)
+3. 根据模板修改infos文件，提供一个测试Token(每一行对应一个实例,#号注释，如果不需要密码的话请留空对应位置)
 4. 执行生成脚本:`python3 makedata.py`
 5. 转到工作目录:`cd data`
 6. 启动容器:`docker-compose up`
