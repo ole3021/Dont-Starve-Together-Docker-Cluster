@@ -6,7 +6,7 @@ import re
 
 service_format = '''
  {name}:
-    image: thoxvi/dst_server_dockerfile:latest
+    image: thoxvi/dont-starve-together-docker-cluster:latest
     ports:
       - "10999"
       - "10998"

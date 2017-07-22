@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER Thoxvi:A@Thoxvi.com
+MAINTAINER Thoxvi <A@Thoxvi.com>
 COPY ./sources.list /etc/apt/sources.list
 RUN dpkg --add-architecture i386 && \
     apt-get update && \
