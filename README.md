@@ -3,7 +3,7 @@
 ## 运行状况
 * 镜像大约`580m`，包括底层Ubuntu镜像的话大约`1G`
 * 大概每个实例(带洞穴的)占内存`1G`左右，CPU似乎不怎么占用
-* 存档在生成的`data/名字/save`里面，要备份的话，请用`chown`到自己的用户名，再进行备份
+* 存档在生成的`data/名字/Master/save`里面，要备份的话，请用`chown`到自己的用户名，再进行备份
 * Mod的话请查看`./template/dedicated_server_mods_setup.lua`文件，有具体说明，建议PC机先建立一个世界，再把Mod配置好，最后再复制到对应位置(`dedicated_server_mods_setup.lua`文件需要自行整理)
 
 ## 运行环境配置
