@@ -27,6 +27,7 @@
 5. 转到工作目录:`cd data`
 6. 启动容器:`docker-compose up`
 7. 若不想查看Log的话，可以在`启动容器`步骤使用:`docker-compose up -d`
+8. 更新,转到工作目录, `docker-compose stop` , 然后 `docker-compose up -d`
 
 ### 一套带走
 ```
