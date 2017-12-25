@@ -8,18 +8,33 @@
 * 存档在生成的`data/名字/Master/save`里面，要备份的话，请用`chown`到自己的用户名，再进行备份
 * Mod的话请查看`./template/dedicated_server_mods_setup.lua`文件，有具体说明，建议PC机先建立一个世界，再把Mod配置好，最后再复制到对应位置(`dedicated_server_mods_setup.lua`文件需要自行整理)
 
-## Modes for server
-* [Storeroom]()
-* [Extra Equip Slots]()
-* [Food Values-Item Tooltips(Server and Client)]()
-* [Global Positions]()
-* [Increased Stack size]()
-* [Limit Prefab]()
-* [Map Discovery Sharing]()
-* [More Weapons and Magic]()
-* [Quick Pick]()
-* [Restart]()
-* [Simple Health Bar DST]()
+## Mods
+
+### Server
+
+* [Simple Health Bar](http://steamcommunity.com/sharedfiles/filedetails/?id=1207269058)
+* [Wormhole Marks](http://steamcommunity.com/sharedfiles/filedetails/?id=362175979)
+* [Increased Stack size](http://steamcommunity.com/sharedfiles/filedetails/?id=374550642)
+* [Extra Equip Slots](http://steamcommunity.com/sharedfiles/filedetails/?id=375850593)
+* [Global Positions](http://steamcommunity.com/sharedfiles/filedetails/?id=378160973)
+* [Remove Penalty](http://steamcommunity.com/sharedfiles/filedetails/?id=378965501)
+* [Tweak Those Tools, Tweaked!](http://steamcommunity.com/sharedfiles/filedetails/?id=441356490)
+* [Food Values - Item Tooltips (Server and Client)](http://steamcommunity.com/sharedfiles/filedetails/?id=458940297)
+* [Restart](http://steamcommunity.com/sharedfiles/filedetails/?id=462434129)
+* ~~[Map Discovery Sharing](http://steamcommunity.com/sharedfiles/filedetails/?id=462469447)~~
+* [Fix Multiplayer](http://steamcommunity.com/sharedfiles/filedetails/?id=463718554)
+* [Quick Pick](http://steamcommunity.com/sharedfiles/filedetails/?id=501385076)
+* [Less lags](http://steamcommunity.com/sharedfiles/filedetails/?id=597417408)
+* ~~[Limit Prefab](http://steamcommunity.com/sharedfiles/filedetails/?id=609675532)~~
+* [Trap Reset](http://steamcommunity.com/sharedfiles/filedetails/?id=679636739)
+
+### Client (recommended)
+
+* [Minimap HUD](http://steamcommunity.com/sharedfiles/filedetails/?id=345692228)
+* [Geometric Placement](http://steamcommunity.com/sharedfiles/filedetails/?id=351325790)
+* [Smarter Crock Pot](http://steamcommunity.com/sharedfiles/filedetails/?id=365119238)
+* [Combined Status](http://steamcommunity.com/sharedfiles/filedetails/?id=376333686)
+* [Auto Actions - Full client mod](http://steamcommunity.com/sharedfiles/filedetails/?id=651419070)
 
 ## 生成Cluster
 修改`infos`信息为自己服务器的信息
